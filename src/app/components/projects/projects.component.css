@@ -1,0 +1,107 @@
+.text-black-card {
+    color: black;
+}
+
+.btn {
+    color: whitesmoke;  
+    height: 35px;
+}
+
+.live {
+    background-color: #00913f;
+}
+
+.live:hover {
+    background-color: #1ace68;
+}
+
+.youtube {
+    background-color: #c4302b;
+}
+
+.youtube:hover {
+    background-color: #ee3f3f;
+}
+
+.github {
+    background-color: #171515;
+}
+
+.github:hover {
+    background-color: #4d4d4d;
+}
+
+.youtube {
+    background-color: #c4302b;
+}
+
+.youtube:hover {
+    background-color: #ee3f3f;
+}
+
+.card {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    margin-bottom: 0;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    
+}
+
+.card-body {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.d-flex {
+    margin-top: auto;
+    flex-wrap: wrap;
+}
+
+span {
+    display: inline-block;
+}
+
+span, p {
+    font-weight: 500;
+}
+
+.angular {
+    background-color: #5c0115;
+    border-radius: 50px;
+    padding: 1px 6px;
+    font-size: small;
+}
+
+.fa-angular {
+    color: #DD0031;
+}
+
+.bootstrap {
+    background-color: #2d0070;
+    border-radius: 50px;
+    padding: 1px 6px;
+    font-size: small;
+}
+
+.fa-bootstrap {
+    color: #7952B3;
+}
+
+.firebase {
+    background-color: #8d5001;
+    border-radius: 50px;
+    padding: 1px 6px;
+    font-size: small;
+}
+
+.fa-database {
+    color: #FFC400; 
+}

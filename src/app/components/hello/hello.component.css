@@ -1,0 +1,35 @@
+.hello {
+    text-align: center;
+    margin-top: 5vh;
+}
+
+.hello img {
+    width: 128px;
+    height: 128px;
+    border-radius: 50%;
+}
+
+.hello span {
+    font-weight: 400;
+}
+
+.btn {
+    color: whitesmoke;  
+    height: 35px;
+}
+
+.linkedin {
+    background-color: #0e76a8;
+}
+
+.github {
+    background-color: #171515;
+}
+
+.linkedin:hover {
+    background-color: #004d73;
+}
+
+.github:hover {
+    background-color: #4d4d4d;
+}
