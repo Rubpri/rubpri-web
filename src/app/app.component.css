@@ -21,3 +21,9 @@
     margin-top: 6rem;
     margin-bottom: 6rem;
 }
+
+footer {
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+}

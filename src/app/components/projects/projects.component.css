@@ -105,3 +105,26 @@ span, p {
 .fa-database {
     color: #FFC400; 
 }
+
+.react {
+    background-color: #01596e;
+    border-radius: 50px;
+    padding: 1px 6px;
+    font-size: small;
+}
+
+.fa-react {
+    color: #61DBFB;
+}
+
+.django {
+    background-color: #009159;
+    border-radius: 50px;
+    padding: 1px 6px;
+    font-size: small;
+}
+
+.django-logo {
+    width: 40px;
+    height: auto;
+}

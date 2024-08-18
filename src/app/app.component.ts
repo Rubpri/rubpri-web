@@ -12,4 +12,13 @@ import { ProjectsComponent } from './components/projects/projects.component';
 })
 export class AppComponent {
   title = 'ruben-web';
+  currentYear: number;
+
+  constructor() {
+    this.currentYear = new Date().getFullYear();
+  }
+
+  ngOnInit(): void {
+  }
+
 }
