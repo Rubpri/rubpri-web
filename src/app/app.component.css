@@ -2,21 +2,6 @@
     max-width: 1024px;
 }
 
-.nav {
-    text-align: center;
-}
-
-.navbar-text {
-    color: whitesmoke;
-    font-weight: 600;
-    transition: color 0.3s;
-    cursor: pointer;
-}
-
-.navbar-text:hover {
-    color:gold;
-}
-
 .app-projects {
     margin-top: 6rem;
     margin-bottom: 6rem;
