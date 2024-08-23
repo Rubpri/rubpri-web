@@ -1,4 +1,4 @@
-Visit my website: <a href="https://rubpri.vercel.app/" target="_blank">https://rubpri.vercel.app/</a>
+Visit my website: <a href="https://www.rubpri.com" target="_blank">https://www.rubpri.com</a>
 
 <a href="https://github.com/Rubpri" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
